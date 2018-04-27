@@ -1,4 +1,4 @@
-# Teensy_breakout_fritzing
+# Teensy Breakout Fritzing Component
 Disclaimer: Use at your own discretion, I have printed on a paper and tested the pdf proof through fritzing and it worked perfectly fine, still the files are available to use and edit if you need change.
 
 Teensy 3.5/3.6 Breakout by Talldog , Fritizing Part and SVGs
@@ -9,12 +9,18 @@ Detail data : https://github.com/loglow/Tall-Dog-Public/blob/master/Datasheets/T
 
 Data taken from https://github.com/loglow/Tall-Dog-Public
 
-IMPORTANT: Breadboard view has just the same PCB svg but with labels, I will not suggest it to use it in bredboard view, I am not quite sure, how will it work out.
+# IMPORTANT: Breadboard view has just the same PCB svg but with labels, I will not suggest it to use it in bredboard view, I am not quite sure, how will it work out.
 
-Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow the tutorial.
 
-File Description:
+
+# File Description:
 
 controller_breakout.svg - Schematic View for breakout board
 
 breakout_pcb_footprint.svg - PCB footprint for breakout board   
+
+
+
+# Thanks
+
+Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow the tutorial.
