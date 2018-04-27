@@ -27,4 +27,4 @@ Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow
 
 ## Known Issues
 
-..* In schematic view, pins do not snap to grid, making lines with slope.
+* In schematic view, pins do not snap to grid, making lines with slope.
