@@ -24,3 +24,7 @@ breakout_pcb_footprint.svg - PCB footprint for breakout board
 # Thanks
 
 Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow the tutorial.
+
+# Known Issues
+
+In schematic view, pins do not snap to grid, making lines with slope.
