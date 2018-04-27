@@ -9,11 +9,11 @@ Detail data : https://github.com/loglow/Tall-Dog-Public/blob/master/Datasheets/T
 
 Data taken from https://github.com/loglow/Tall-Dog-Public
 
-# IMPORTANT: Breadboard view has just the same PCB svg but with labels, I will not suggest it to use it in bredboard view, I am not quite sure, how will it work out.
+## IMPORTANT: Breadboard view has just the same PCB svg but with labels, I will not suggest it to use it in bredboard view, I am not quite sure, how will it work out.
 
 
 
-# File Description:
+## File Description:
 
 controller_breakout.svg - Schematic View for breakout board
 
@@ -21,10 +21,10 @@ breakout_pcb_footprint.svg - PCB footprint for breakout board
 
 
 
-# Thanks
+## Thanks
 
 Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow the tutorial.
 
-# Known Issues
+## Known Issues
 
-In schematic view, pins do not snap to grid, making lines with slope.
+..* In schematic view, pins do not snap to grid, making lines with slope.
