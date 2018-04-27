@@ -12,3 +12,7 @@ Data taken from https://github.com/loglow/Tall-Dog-Public
 IMPORTANT: Breadboard view has just the same PCB svg but with labels, I will not suggest it to use it in bredboard view, I am not quite sure, how will it work out.
 
 Thanks to https://www.youtube.com/watch?v=zuFBi8EgfF0 video I was able to follow the tutorial.
+
+File Description:
+controller_breakout.svg - Schematic View for breakout board
+breakout_pcb_footprint.svg - PCB footprint for breakout board   
