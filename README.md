@@ -19,7 +19,8 @@ controller_breakout.svg - Schematic View for breakout board
 
 breakout_pcb_footprint.svg - PCB footprint for breakout board   
 
-
+## Verification
+Designed a PCB with this component, ordered and it works without any error.
 
 ## Thanks
 
